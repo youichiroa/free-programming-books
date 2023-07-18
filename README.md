@@ -1,11 +1,7 @@
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Hacktoberfest 2022 stats](https://img.shields.io/github/hacktoberfest/2022/EbookFoundation/free-programming-books?label=Hacktoberfest+2022)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2022-10-01..2022-10-31)
-
+aaaadddd
 </div>
 
 Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/).
@@ -80,42 +76,9 @@ This project lists books and other resources grouped by genres:
 
 #### Other Languages
 
-+ [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
-+ [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
-+ [Bengali / বাংলা](books/free-programming-books-bn.md)
-+ [Bulgarian / български](books/free-programming-books-bg.md)
-+ [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
-+ [Chinese / 中文](books/free-programming-books-zh.md)
-+ [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
-+ [Catalan / catalan/ català](books/free-programming-books-ca.md)
-+ [Danish / dansk](books/free-programming-books-da.md)
-+ [Dutch / Nederlands](books/free-programming-books-nl.md)
-+ [Estonian / eesti keel](books/free-programming-books-et.md)
-+ [Finnish / suomi / suomen kieli](books/free-programming-books-fi.md)
-+ [French / français](books/free-programming-books-fr.md)
-+ [German / Deutsch](books/free-programming-books-de.md)
-+ [Greek / ελληνικά](books/free-programming-books-el.md)
 + [Hebrew / עברית](books/free-programming-books-he.md)
-+ [Hindi / हिन्दी](books/free-programming-books-hi.md)
-+ [Hungarian / magyar / magyar nyelv](books/free-programming-books-hu.md)
-+ [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
-+ [Italian / italiano](books/free-programming-books-it.md)
 + [Japanese / 日本語](books/free-programming-books-ja.md)
 + [Korean / 한국어 [韓國語]](books/free-programming-books-ko.md)
-+ [Latvian / Latviešu](books/free-programming-books-lv.md)
-+ [Norwegian / Norsk](books/free-programming-books-no.md)
-+ [Persian / Farsi (Iran) / فارسى](books/free-programming-books-fa_IR.md)
-+ [Polish / polski / język polski / polszczyzna](books/free-programming-books-pl.md)
-+ [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
-+ [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
-+ [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язык](books/free-programming-books-ru.md)
-+ [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
-+ [Slovak / slovenčina](books/free-programming-books-sk.md)
-+ [Spanish / español / castellano](books/free-programming-books-es.md)
-+ [Swedish / Svenska](books/free-programming-books-sv.md)
-+ [Tamil / தமிழ்](books/free-programming-books-ta.md)
-+ [Telugu / తెలుగు](books/free-programming-books-te.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
